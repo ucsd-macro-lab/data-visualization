@@ -3,3 +3,14 @@
   height: 60vh;
   border: solid 1px red;
 }
+
+.distributor-contents {
+  width: 100vw;
+  height: 100%;
+  display: flex;
+}
+
+.distributor-side-bar {
+  width: 20%;
+  text-align: start;
+}

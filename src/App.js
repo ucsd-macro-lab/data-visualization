@@ -1,4 +1,4 @@
-import DistributorMarketShare from './components/distributor-market-share/distributor-market-share';
+import DistributorMarketShare from './data-components/distributor-market-share/distributor-market-share';
 import './App.css';
 
 function App() {
